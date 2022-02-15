@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "SJSONDecoder"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6-rd"
   spec.summary      = "Custom Decoder for JSON"
 
   # This description is used to generate tags and improve search results.
@@ -72,7 +72,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/vibe0508/SJSONDecoder.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/ReDetection/SJSONDecoder.git", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
